@@ -23,7 +23,7 @@
    Visit the web site on ⬇️
 </h2>
 
-<p align="center"><a align="center" href="https://mariohb25.github.io/HTML-CSS-SCSS-Web-development-and-design-I/">Business Agency</a></p>
+<p align="center"><a align="center" href="https://mariohb25.github.io/Web-development-and-design-I/">Business Agency</a></p>
 
 <br><br><br>
 
